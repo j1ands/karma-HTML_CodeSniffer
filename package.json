@@ -1,0 +1,24 @@
+{
+  "name": "karma-html_codesniffer",
+  "version": "1.0.0",
+  "description": "A Karma plugin. Adapter for HTML_CodeSniffer",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/j1ands/karma-HTML_CodeSniffer.git"
+  },
+  "keywords": [
+    "karma-plugin",
+    "karma-adapter",
+    "HTML_CodeSniffer"
+  ],
+  "author": "Jordan Landau <jordanlandau1@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/j1ands/karma-HTML_CodeSniffer/issues"
+  },
+  "homepage": "https://github.com/j1ands/karma-HTML_CodeSniffer#readme"
+}
